@@ -6,3 +6,17 @@ How is the staging area different from the working directory and the repository?
 Staging area is a package which combines all the files to be commited in one stop. Working directory is the actual set of files after commit is performed.
 
 It brings a lot of value as each commit can happen in more than one file. Also its nice
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+All the logical changes can be added to the statging area then finally once commit can be made into it.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when we want to try out some new features and when multiple language fetures required.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams helps to visualize all the branches and commit history for a repository.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Code merge will happen
