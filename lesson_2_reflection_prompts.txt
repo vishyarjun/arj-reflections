@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
  A .git file is created. it needs to be done for us to have a file repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a package which combines all the files to be commited in one stop. Working directory is the actual set of files after commit is performed.
+
+It brings a lot of value as each commit can happen in more than one file. Also its nice
