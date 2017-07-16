@@ -20,3 +20,16 @@ Diagrams helps to visualize all the branches and commit history for a repository
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Code merge will happen
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Pulling Automatically will overwrite any local changes, to avoid remote getting overwritten, its better to pull manually
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork to take from one git hub and put it in my own repo
+Branch to work on a new feature without altering master
+CLone to take copy of github for first time
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Merge can happen without any issues
