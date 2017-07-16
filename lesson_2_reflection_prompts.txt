@@ -33,3 +33,7 @@ CLone to take copy of github for first time
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Merge can happen without any issues
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Easy to make our changes reach to others. Harder when multiple people works on the same code at the same time.
